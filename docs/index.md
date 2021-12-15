@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+### Welcome to Mager Document
 
-You can use the [editor on GitHub](https://github.com/CommandBedrock/Mager-Docs/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Commands
+# General
+`??invite` - Invite me!
+`??future` - Recieve Future Updates!
+`??activate {code}` - Activate a Premium Code
+`??premium` - Checks Info about Mager Premium
+`??support` - Join support server!
+`??goal` - Shows current server and users goal
+`??whois {mention}` - Shows some information about the mentioned user
+`??serverinfo` - Shows info's about the server
+`??botinfo` - Get info about Mager
+`??translate {text}` - Translate a text
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Admin
+`??countclick` - Creates a button count!
+`??mute {user}` - Mute someone
+`??unmute {user}` - Unmute someone
+`??kick {user}` - Kick someone "**In Development**"
+`??ban {user}` - Ban user
+`??unban {user}` - Unban user
+`??warn {user} {reason}` - Warn user "**In Development**"
+`??checkwarn {user}` - Check warns on a user
+`??purge {number}` - Purge messages
+`??new {subject}` - Creates a new ticket "**In Development**"
+`??close` - Closes a ticket
+`??lock {channel}` - Locks a channel (Doesn't work on staff channels and verification servers)
+`??unlock {channel}` - Unlocks a channel (Doesn't work on staff channels and verifications servers)
+`??leave` - Force the bot to leave 😓
+`??poll {question}` - Creates a poll
+`??endpoll {MessageID}` - End a poll
+`??start {time} {prize}` - Start a giveawat(In Dev)
+`??end {MessageID}` - End a giveaway
 
-### Markdown
+# Economy
+`??balance` - See your balance
+`??pay {user} {money}` - Pay someone
+`??withdraw {money}` - Withdraw money
+`??deposit {money}` - Deposit money
+`??work` - Work
+`??bet {bet}` - Bet your money
+`??leaderboard {page}` - Shows Money Leaderboard
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Games
+`??snake` - Snake(Currently in Development) By Cat Developer
 
-```markdown
-Syntax highlighted code block
+# Fun
+`??meme` - Shows a meme
+`??chat {message}` - Chatbot
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CommandBedrock/Mager-Docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Custom Commands
+`??cc1 {trigger}/{reply}` - Make a custom command for this server! Only Admin!
+`??cc2 {trigger}/{reply}` - Make a custom command for this server! Only Admin!
+`??cc3 {trigger}/{reply}` - Make a custom command for this server! Only Admin!
+`??cc4 {trigger}/{reply}` - Make a custom command for this server! Only Admin!
+`??cc5 {trigger}/{reply}` - Make a custom command for this server! Only Admin!
+`??resetcc1` - Resets Custom Command #1. Admin Only!
+`??resetcc2` - Resets Custom Command #2. Admin Only!
+`??resetcc3` - Resets Custom Command #3. Admin Only!
+`??resetcc4` - Resets Custom Command #4. Admin Only!
+`??resetcc5` - Resets Custom Command #5. Admin Only!
+`??list-cc` - Lists all Custom Commands!
