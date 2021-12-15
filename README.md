@@ -1,1 +1,3 @@
 # Mager-Docs
+
+Mager Document
