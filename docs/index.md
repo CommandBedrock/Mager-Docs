@@ -62,7 +62,7 @@
 
 `??cwebhook {Name}` - Creates a webhook at the current channel
 
-`??swebhook {Webhook URL} {Message(Add + for a space)}` - Sends a message at the webhook url
+`??swebhook {Webhook URL} {Message (Add + for a space)}` - Sends a message at the webhook url
 
 
 # Economy
